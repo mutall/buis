@@ -1,0 +1,17 @@
+/*
+Do not display the labels*/
+label.normal{
+    display:none;
+}
+
+/*
+Size the images*/
+img{
+    width:150px; height:150px;
+}
+
+/*
+Display the option, one per line*/
+.option{
+    display:block;
+}

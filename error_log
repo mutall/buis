@@ -1,0 +1,191 @@
+[09-Apr-2019 08:28:09 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined index: password in /home/mutallco/public_html/development/library/mutall.php:5645
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(5645): mutall->{closure}(8, 'Undefined index...', '/home/mutallco/...', 5645, Array)
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_login->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(5603): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/buis/page_login.php(13): page_login->__construct(Object(querystring))
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 5645
+[09-Apr-2019 08:28:28 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined index: password in /home/mutallco/public_html/development/library/mutall.php:5645
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(5645): mutall->{closure}(8, 'Undefined index...', '/home/mutallco/...', 5645, Array)
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_login->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(5603): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/buis/page_login.php(13): page_login->__construct(Object(querystring))
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 5645
+[09-Apr-2019 08:36:56 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:36:57 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:37:00 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:37:00 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:37:03 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:37:04 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:37:04 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:37:05 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:37:06 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:38:01 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:38:02 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:38:06 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 08:38:06 UTC] PHP Fatal error:  Uncaught Exception: No serial sql_edit found for table null in database mutallco_majorm. in /home/mutallco/public_html/development/library/mutall.php:1183
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(6119): page_table->get_sql_edit()
+#1 /home/mutallco/public_html/development/library/mutall.php(693): page_records->get_driver()
+#2 /home/mutallco/public_html/development/library/mutall.php(1014): page->__construct(Object(querystring))
+#3 /home/mutallco/public_html/development/library/mutall.php(6109): page_table->__construct(Object(querystring))
+#4 /home/mutallco/public_html/development/buis/page_records.php(16): page_records->__construct(Object(querystring))
+#5 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 1183
+[09-Apr-2019 14:27:49 UTC] PHP Fatal error:  Uncaught Exception: Table 'mutallco_majorm.connection' doesn't exist in /home/mutallco/public_html/development/library/mutall.php:2565
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(4177): dbase->query('SELECT `connect...')
+#1 /home/mutallco/public_html/development/library/mutall.php(4043): sql->query(Object(page_records))
+#2 /home/mutallco/public_html/development/library/mutall.php(728): sql->display_data(Object(page_records), Object(tabular), Object(mode_output))
+#3 /home/mutallco/public_html/development/buis/page_records.php(112): page->display_page()
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 2565
+[09-Apr-2019 14:28:08 UTC] PHP Fatal error:  Uncaught Exception: Table 'mutallco_majorm.connection' doesn't exist in /home/mutallco/public_html/development/library/mutall.php:2565
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(4177): dbase->query('SELECT `connect...')
+#1 /home/mutallco/public_html/development/library/mutall.php(4043): sql->query(Object(page_records))
+#2 /home/mutallco/public_html/development/library/mutall.php(728): sql->display_data(Object(page_records), Object(tabular), Object(mode_output))
+#3 /home/mutallco/public_html/development/buis/page_records.php(112): page->display_page()
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 2565
+[09-Apr-2019 14:28:38 UTC] PHP Fatal error:  Uncaught Exception: Table 'mutallco_majorm.connection' doesn't exist in /home/mutallco/public_html/development/library/mutall.php:2565
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(4177): dbase->query('SELECT `connect...')
+#1 /home/mutallco/public_html/development/library/mutall.php(4043): sql->query(Object(page_records))
+#2 /home/mutallco/public_html/development/library/mutall.php(728): sql->display_data(Object(page_records), Object(tabular), Object(mode_output))
+#3 /home/mutallco/public_html/development/buis/page_records.php(112): page->display_page()
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 2565
+[09-Apr-2019 14:29:59 UTC] PHP Fatal error:  Uncaught Exception: Unknown column 'client.code' in 'field list' in /home/mutallco/public_html/development/library/mutall.php:2565
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(4177): dbase->query('SELECT `client`...')
+#1 /home/mutallco/public_html/development/library/mutall.php(4043): sql->query(Object(page_records))
+#2 /home/mutallco/public_html/development/library/mutall.php(728): sql->display_data(Object(page_records), Object(tabular), Object(mode_output))
+#3 /home/mutallco/public_html/development/buis/page_records.php(112): page->display_page()
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 2565
+[09-Apr-2019 14:30:54 UTC] PHP Fatal error:  Uncaught Exception: Unknown column 'client.code' in 'field list' in /home/mutallco/public_html/development/library/mutall.php:2565
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(4177): dbase->query('SELECT `client`...')
+#1 /home/mutallco/public_html/development/library/mutall.php(4043): sql->query(Object(page_records))
+#2 /home/mutallco/public_html/development/library/mutall.php(728): sql->display_data(Object(page_records), Object(tabular), Object(mode_output))
+#3 /home/mutallco/public_html/development/buis/page_records.php(112): page->display_page()
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 2565
+[09-Apr-2019 14:31:49 UTC] PHP Fatal error:  Uncaught Exception: Unknown column 'client.code' in 'field list' in /home/mutallco/public_html/development/library/mutall.php:2565
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(4177): dbase->query('SELECT `client`...')
+#1 /home/mutallco/public_html/development/library/mutall.php(4043): sql->query(Object(page_records))
+#2 /home/mutallco/public_html/development/library/mutall.php(728): sql->display_data(Object(page_records), Object(tabular), Object(mode_output))
+#3 /home/mutallco/public_html/development/buis/page_records.php(112): page->display_page()
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 2565
+[09-Apr-2019 14:36:23 UTC] PHP Fatal error:  Uncaught Exception: Unknown column 'client.code' in 'field list' in /home/mutallco/public_html/development/library/mutall.php:2565
+Stack trace:
+#0 /home/mutallco/public_html/development/library/mutall.php(4177): dbase->query('SELECT `client`...')
+#1 /home/mutallco/public_html/development/library/mutall.php(4043): sql->query(Object(page_records))
+#2 /home/mutallco/public_html/development/library/mutall.php(728): sql->display_data(Object(page_records), Object(tabular), Object(mode_output))
+#3 /home/mutallco/public_html/development/buis/page_records.php(112): page->display_page()
+#4 {main}
+  thrown in /home/mutallco/public_html/development/library/mutall.php on line 2565
+[10-Apr-2019 04:54:12 UTC] PHP Warning:  require_once(../library/mutall.php): failed to open stream: No such file or directory in /home/mutallco/public_html/development/buis/page_buis.php on line 18
+[10-Apr-2019 04:54:12 UTC] PHP Fatal error:  require_once(): Failed opening required '../library/mutall.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mutallco/public_html/development/buis/page_buis.php on line 18
