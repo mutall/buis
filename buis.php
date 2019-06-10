@@ -326,7 +326,8 @@ class page_databases extends page {
         //
         //Unless otherwise specified, the default layout of a database page 
         //is a label
-        $this->layout_type = #layout::label;
+        //
+        $this->layout_type = layout::label;
                 //
         //Initialize the parent page
                 parent::__construct($qstring);

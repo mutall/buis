@@ -15,7 +15,7 @@ $page_databases = new page_databases($qstring);
 ?>
 <html>
     <head>
-        <title>page of Databases</title>
+        <title>Databases</title>
 
         <!--The general appearance of a mutall page is controlled by this css-->
         <link rel="stylesheet" type="text/css" href="../library/mutall.css">
@@ -27,6 +27,22 @@ $page_databases = new page_databases($qstring);
         
         <!-- Refer to the core mutall library-->
         <script src="buis.js"></script>
+        <style>
+            label.normal {
+                display:none;
+            }
+
+            record{
+                margin-bottom: 10px;
+            }
+
+            records{
+                display:flex;
+                flex-direction: column;
+                font-size:xx-large;
+                height:100%;
+            }
+        </style>
         
         <!--Activate the php Class Object to the equivalent js version-->
         <script>
